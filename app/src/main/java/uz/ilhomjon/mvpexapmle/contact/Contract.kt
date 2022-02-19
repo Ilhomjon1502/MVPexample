@@ -1,6 +1,6 @@
 package uz.ilhomjon.mvpexapmle.contact
 
-//bu interface 3 ta model, view, presenter qismlarni bog'lovchi
+//bu interface 3 ta model, view, presenter qismlarni bog'lovchi..
 interface Contract {
 
 	//dizayn qismini hozirgi holatda MainActivity boshqaradi
